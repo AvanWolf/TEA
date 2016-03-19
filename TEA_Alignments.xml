@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Information on TEA system:
+
+Standard alignment chart:
+
+community vs. independence:
+At one extreme, people believe that the good of the community outweighs the good of any one individual.
+At the other extreme, allowing freedom of individual action is more important than collective results.
+
+knowledge vs. spirituality:
+At one extreme, progress is defined by measurable things: health, standard-of-living, wealth.
+At the other, a civilization feels successful if it achieves abstract ideals (honor, justice, correct behavior) even if material goals suffer.
+
+evolution vs. tradition:
+At one extreme, a civilization believes that change is both good and necessary, even if it mean short-term chaos.
+At the other, people believe that the past has many lessons for the present and that one should not ignore the hard-won wisdom of millenia of civilization.
+
+There are eight ways in which 
+_________________________________________________________________________________________________________________________________________________
+|																		|
+|					Community			vs.			Independence					|
+|_______________________________________________________________________________________________________________________________________________|
+|									|									|
+|	Knowledge		vs		Spirituality		|		Knowledge		vs	Spirituality		|
+|_______________________________________________________________________|_______________________________________________________________________|
+|				|					|					|				|
+|Evolution   vs.   Tradition	|   Evolution   vs.   Tradition		|     Evolution   vs.   Tradition	|Evolution   vs.   Tradition	|
+|_______________________________|_______________________________________|_______________________________________|_______________________________|
+|		|		|		|			|			|		|		|		|
+|+republic	|*federation	|+uplifter	|=foundation		|=competitor		|*archivist	|+seeker	|*hermit	|
+|		|		|		|			|			|		|		|		|
+|+(const chaos)	|*(const order)	|		|=(unorganized)		|=(neutral)		|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|=(subsapient)		|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|_______________|_______________|_______________|_______________________|_______________________|_______________|_______________|_______________|
+|		|		|		|			|			|		|		|		|
+|~collective	|-empire	|~sterilizer	|-corrector		|~megalomaniac		|-cryptologue	|~perversion	|-solipsist	|
+|		|		|		|			|			|		|		|		|
+|		|-(dest order)	|		|			|~(dest chaos)		|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|		|		|		|			|			|		|		|		|
+|_______________|_______________|_______________|_______________________|_______________________|_______________|_______________|_______________|
+
+
+Standard alignments:
+Constructive Order (*)
+	federation
+	archivist
+	hermit
+Constructive Chaos (+)
+	republic
+	uplifter
+	seeker
+Neutral (=)
+	subsapient
+	unorganized
+	foundation
+	competitor
+Destructive Order (-)
+	empire
+	corrector
+	cryptologue
+	solipsist
+Destructive Chaos (~)
+	collective
+	sterilizer
+	megalomaniac
+	perversion
+
+x|*|+|=|-|~
+*|^|o|o|v|v
++|o|^|o|v|v
+=|o|o|o|o|v
+-|v|v|o|o|v
+~|v|v|v|v|v
+
+Key ^ = friend o = neutral v = enemy 
+
+############################################################################################################################################################
+############################################################################################################################################################
+
+community vs. independence:
+At one extreme, people believe that the good of the community outweighs the good of any one individual.
+At the other extreme, allowing freedom of individual action is more important than collective results.
+
+knowledge vs. spirituality:
+At one extreme, progress is defined by measurable things: health, standard-of-living, wealth.
+At the other, a civilization feels successful if it achieves abstract ideals (honor, justice, correct behavior) even if material goals suffer.
+
+evolution vs. tradition:
+At one extreme, a civilization believes that change is both good and necessary, even if it mean short-term chaos.
+At the other, people believe that the past has many lessons for the present and that one should not ignore the hard-won wisdom of millenia of civilization.
+
+active vs. passive:
+At one extreme, a civilization actively interacts with others to pursue it's goals.
+At the other, a civilization avoids direct interaction with others, preferring roundabout methods or working on its own.
+
+sessile:
+these are things that are incapable of interaction (or just really really really dont want to). Most people wont pay them any mind (except possibly for reasearch, were applicable.
+Only those dedicated to destroying them will go out of their way to do so. Examples: plant-like space aliens, alien debris, abandoned equipment.
+
+inert:
+these are things incapable of interaction, and as far as anyone knows, are not worth paying attention to.
+Stuff that not even the most deranged of states will waste their time destroying. Examples: garbage, barren planets, etc.
+
+Expanded alignment chart:
+
+">" designates an allignment available ONLY in TEA as an inheritable sovereign.
+_________________________________________________________________________________________________________________________________________________________________________________
+|	|																		|			|
+|	|					Community			vs.			Independence					|	Subsapient	|
+|	|_______________________________________________________________________________________________________________________________________________|_______________________|
+|	|									|									|			|
+|	|	Knowledge		vs		Spirituality		|		Knowledge		vs	Spirituality		|			|
+|	|_______________________________________________________________________|_______________________________________________________________________|			|
+|	|				|					|					|				|			|
+|	|Evolution   vs.   Tradition	|   Evolution   vs.   Tradition		|     Evolution   vs.   Tradition	|Evolution   vs.   Tradition	|			|
+|_______|_______________________________|_______________________________________|_______________________________________|_______________________________|			|
+|	|		|		|		|			|			|		|		|		|			|
+|Balance|+republic	|*federation	|+uplifter	|=foundation		|=competitor		|*archivist	|+seeker	|*hermit	|=(subsapient)		|
+|	|		|		|		|			|			|		|		|		|			|
+|	|+(const chaos)	|*(const order)	|		|=(unorganized)		|=(neutral)		|		|		|		|			|
+|	|		|		|		|			|			|		|		|		|			|
+|	|		|		|		|=(subsapient)		|			|		|		|		|			|
+|_______|_______________|_______________|_______________|_______________________|_______________________|_______________|_______________|_______________|			|
+|Active |>#eutopia	|>*union	|>+creator	|>#guardian		|>=explorer		|>#confederation|>#nomad	|>*clan		|			|
+|	|		|		|		|			|			|		|		|		|			|
+|	|		|		|		|			|			|		|		|		|			|
+|_______|_______________|_______________|_______________|_______________________|_______________________|_______________|_______________|_______________|			|
+|Passive|>=institute	|>8state	|>8architect	|>=enclave		|>8association		|>=merchant	|>=primitivist	|>8order	|			|
+|	|		|		|		|			|			|		|		|		|			|
+|	|		|		|		|			|			|		|		|		|			|
+|_______|_______________|_______________|_______________|_______________________|_______________________|_______________|_______________|_______________|_______________________|
+|	|		|		|		|			|			|		|		|		|			|
+|Balance|~collective	|-empire	|~sterilizer	|-corrector		|~megalomaniac		|-cryptologue	|~perversion	|-solipsist	|>!devourer		|
+|	|		|		|		|			|			|		|		|		|			|
+|	|		|-(dest order)	|		|			|~(dest chaos)		|		|		|		|			|
+|	|		|		|		|			|			|		|		|		|			|
+|	|		|		|		|			|			|		|		|		|			|
+|_______|_______________|_______________|_______________|_______________________|_______________________|_______________|_______________|_______________|			|
+|Active |>!assimilater	|>~conquerer	|>!destroyer	|>!tyranny		|>!ravanger		|>!scioclave	|>~manic	|>!psychopath	|			|
+|	|		|		|		|			|			|		|		|		|			|
+|	|		|		|		|			|			|		|		|		|			|
+|_______|_______________|_______________|_______________|_______________________|_______________________|_______________|_______________|_______________|			|
+|Passive|>.dystopia	|>.hegemony	|>-suppresser	|>.manipulator		|>-parasite		|>.keeper	|>.cabal	|>.lotophagi	|			|
+|	|		|		|		|			|			|		|		|		|			|
+|	|		|		|		|			|			|		|		|		|			|
+|_______|_______________|_______________|_______________|_______________________|_______________________|_______________|_______________|_______________|_______________________|
+
+Expanded alignments:
+
+Constructive Active (#)
+	>protector (basic)
+Constructive Passive (8)
+	>maintainer (basic)
+Constructive Order (*)
+	federation (basic)
+	archivist
+	hermit
+Constructive Chaos (+)
+	republic (basic)
+	uplifter
+	seeker
+Neutral (=)
+	subsapient (subsapient)
+	unorganized
+	foundation
+	competitor (basic)
+Destructive Active (!)
+	>devourer (subsapient)
+	>ravanger 
+	>destroyer (basic)
+Destructive Passive (.)
+	>parasite (subsapient)
+	>exploiter (basic)
+Destructive Order (-)
+	empire (basic)
+	corrector
+	cryptologue
+	solipsist
+Destructive Chaos (~)
+	collective
+	sterilizer
+	megalomaniac (basic)
+	perversion
+Sessile (_)
+	>abandoned
+	>sessile (basic, subsapient & sapient)
+Inert (x)
+	>inert (basic, subsapient & sapient)
+Player (P)
+
+ |#|8|*|+|=|!|.|-|~|_|x|P   <== I am (look DOWN the COLUMN till you find YOURSELF. This is what I see YOU as.)
+#|^|@|^|^|o|v|v|v|v|o|o|^
+8|'|o|'|o|o|v|o|o|%|o|o|o
+*|^|@|^|o|o|v|@|v|v|o|o|^
++|^|o|o|^|o|v|o|v|v|o|o|^
+=|o|o|o|o|o|v|o|o|v|o|o|o
+!|v|v|v|v|v|v|v|v|v|@|o|v
+.|v|o|%|o|o|v|o|o|%|o|o|o
+-|v|o|v|v|o|v|o|o|v|o|o|v
+~|v|@|v|v|v|v|@|v|v|o|o|v
+_|o|o|o|o|o|%|o|o|o|o|o|o
+x|o|o|o|o|o|o|o|o|o|o|o|o
+P|^|o|^|^|o|v|o|v|v|o|o|^
+
+^
+|
+You are (look RIGHT along the ROW till you find ME. This is what I see YOU as.)
+
+Key
+	^ = friend (mutual)
+	' = friend (one-way)
+	o = neutral (mutual)
+	@ = neutral (one-way)
+	v = enemy (mutual)
+	% = enemy (one-way)
+	
+explanations of non-mutual pairs:
+' -> @ = likes the other
+@ -> ' = doesnt want the other messing up their stuff
+% -> @ = doesnt like the other
+@ -> % = doesnt go out of their way to attack the other
+' -> % = [none] (is crazy)
+% -> ' = [none] (see above)
+
+
+
+Description of new alignments:
+
+	
+	
+-->
+
+<TranscendenceModule>
+
+<!--
+#########################
+### BASIC ###
+#########################
+-->
+
+
+	<Sovereign UNID="&TEA_svDestructiveOrder;"
+			name="(Destructive Order)"
+			alignment="destructive order"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+	<Sovereign UNID="&TEA_svDestructiveChaos;"
+			name="(Destructive Chaos)"
+			alignment="destructive chaos"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="enemy" mutual="false"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="enemy" mutual="false"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+	<Sovereign UNID="&TEA_svDestructivePassive;"
+			name="(Destructive Passive)"
+			alignment="unorganized"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="neutral" mutual="false"/>
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="neutral" mutual="false"/>
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+	<Sovereign UNID="&TEA_svDestructiveActive;"
+			name="(Destructive Active)"
+			alignment="destructive chaos"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+
+
+	<Sovereign UNID="&TEA_svConstructiveOrder;"
+			name="(Constructive Order)"
+			alignment="constructive order"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="friend" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="enemy" mutual="false"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="friend" mutual="false"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="friend" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+	<Sovereign UNID="&TEA_svConstructiveChaos;"
+			name="(Constructive Chaos)"
+			alignment="constructive chaos"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="friend" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="friend" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+	<Sovereign UNID="&TEA_svConstructivePassive;"
+			name="(Constructive Passive)"
+			alignment="unorganized"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="neutral" mutual="false"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="neutral" mutual="false"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="neutral" mutual="false"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+	<Sovereign UNID="&TEA_svConstructiveActive;"
+			name="(Constructive Active)"
+			alignment="constructive order"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="friend" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="friend" mutual="false"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="friend" mutual="false"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+
+
+	<Sovereign UNID="&TEA_svSessile;"
+			name="(Sessile)"
+			alignment="unorganized"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="enemy" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="enemy" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+
+
+	<Sovereign UNID="&TEA_svNeutral;"
+			name="(Neutral)"
+			alignment="unorganized"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="neutral" mutual="false"/>
+
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+
+	<Sovereign UNID="&TEA_svInert;"
+			name="(Inert)"
+			alignment="unorganized"
+			>
+		<Relationships>
+			<Relationship sovereign="&svPlayer;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svDestructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svDestructiveActive;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svConstructiveOrder;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveChaos;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructivePassive;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svConstructiveActive;" disposition="neutral" mutual="true"/>
+
+			<Relationship sovereign="&TEA_svNeutral;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svSessile;" disposition="neutral" mutual="true"/>
+			<Relationship sovereign="&TEA_svInert;" disposition="neutral" mutual="true"/>
+		</Relationships>
+	</Sovereign>
+
+</TranscendenceModule>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TranscendenceLibrary
+	[
+	<!ENTITY TEA_unidTEALib					"0xA00300F0">
+
+	<!ENTITY TEA_svInert					"0xA003F001">
+	<!ENTITY TEA_svSessile					"0xA003F002">
+	<!ENTITY TEA_svNeutral					"0xA003F003">
+
+	<!ENTITY TEA_svConstructiveOrder			"0xA003F004">
+	<!ENTITY TEA_svConstructiveChaos			"0xA003F005">
+	<!ENTITY TEA_svConstructivePassive			"0xA003F006">
+	<!ENTITY TEA_svConstructiveActive			"0xA003F007">
+
+	<!ENTITY TEA_svDestructiveOrder				"0xA003F008">
+	<!ENTITY TEA_svDestructiveChaos				"0xA003F009">
+	<!ENTITY TEA_svDestructivePassive			"0xA003F00A">
+	<!ENTITY TEA_svDestructiveActive			"0xA003F00B">
+
+]>
+
+<TranscendenceLibrary
+	name="Transcendence Expanded Alignments Library"
+	credits="Wolfy"
+	UNID="&TEA_unidTEALib;"
+	release="1"
+	version="0.5.0.0"
+	apiVersion="19">
+
+<!-- MODULES -->
+
+	<Modules>
+		<Module filename="TEA_Alignments.xml"/>
+	</Modules>
+
+<!-- GLOBALS -->
+
+	<Globals>
+	</Globals>
+
+</TranscendenceLibrary>
