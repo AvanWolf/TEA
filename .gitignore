@@ -1,0 +1,6 @@
+*.tdb
+**/*.tdb
+_*
+*.xml~
+**/*.xml~
+**/*conflicted copy*.*
